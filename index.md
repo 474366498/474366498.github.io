@@ -1,3 +1,4 @@
+# https://474366498.github.io/
 1 内容放错分支，只有在master分支里面的内容才能用github.io查看到
 
 2 仓库名称不对   github用户名.github.io 必须是这个名字
